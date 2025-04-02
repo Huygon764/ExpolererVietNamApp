@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203726031059",
+    "project_id": "destination-app-d939a",
+    "storage_bucket": "destination-app-d939a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203726031059:android:e87d6f7c3b0762ca336c26",
+        "android_client_info": {
+          "package_name": "com.example.app_tourist_destination"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATvTqfoLq0M8BcM9y2sFvJNDEIEA-XBik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
